@@ -1,6 +1,7 @@
 # RGB composites from Sentinel-2 raw satellite imagery
 
-The python code included in the downloadable jupyter notebook walks you through the process of creating an RGB composite from the raw Sentinel-2 satellite imagery.</br></br>
+The python code included in the downloadable jupyter notebook walks you through the process of creating an RGB composite from the raw Sentinel-2 satellite imagery.</br>
+Sample images and jupyter notebooks are included in the rar file</br></br>
 **Open Access Hub registration is necessary to access Sentinel-2 data!**
 
 ## Required libraries
